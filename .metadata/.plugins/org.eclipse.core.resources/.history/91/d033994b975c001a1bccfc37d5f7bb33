@@ -1,0 +1,27 @@
+package application;
+
+import javafx.event.ActionEvent;
+import javafx.fxml.FXML;
+import javafx.scene.control.Label;
+
+public class CalculatorController {
+	
+	
+	@FXML
+	private Label output;
+	private long num1 = 0;
+	private String operator = "";
+	private boolean start = true;
+	
+	@FXML
+	public void Numbers(ActionEvent event) {
+		
+		
+	}
+	
+	@FXML
+	public void Operator(ActionEvent event) {
+		
+	}
+
+}
