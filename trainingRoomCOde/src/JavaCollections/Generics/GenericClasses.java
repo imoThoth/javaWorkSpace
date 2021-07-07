@@ -18,5 +18,11 @@ public class GenericClasses {
 
         Integer numPounds = 15_000;
         SizeLimitedCrate<Elephant, Integer> c1 = new SizeLimitedCrate<>(eleanor, numPounds);
+
+        String [] family = {"caleb", "phoenix", "lucien", "francis", "cox"};
+        System.out.println("Computer please print out those names");
+        for(String families : family){
+            System.out.println(families);
+        }
     }
 }

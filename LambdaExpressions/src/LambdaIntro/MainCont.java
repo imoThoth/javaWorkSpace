@@ -11,6 +11,20 @@ interface UpperConcat {
     String upperAndConcat(String s1, String s2);
 }
 
+class AnotherClass{
+    public String doSomething(){
+        //implements by creating anonymous class within upper concat as a parameter,
+        //the second 2 parameters are String 1 and String 2
+        System.out.println("The anonymous class name is " + getClass().getSimpleName());
+        return MainCont.doStringStuff(new UpperConcat() {
+            @Override
+            public String upperAndConcat(String s1, String s2) {
+                return s1.toUpperCase() + s2.toUpperCase();
+            }
+        }, "String 1", "String 2");
+    }
+}
+
 class Employee {
     private String name;
     private int age;
@@ -87,9 +101,16 @@ public class MainCont {
 
         //Using Lambda Example
         //return keyword is assumed, and return type is inferred
+
         UpperConcat uc = (l1, l2) -> l1.toUpperCase() + l2.toUpperCase();
-        String adultString = doStringStuff(uc, "Dog", "Fish");
-        System.out.println(sillyString);
+        String adultString = doStringStuff(uc, "Dog", "Potatoes");
+        System.out.println("Prints out adultSTring" + adultString);
+
+        //Adding multiple return types to a lambda execution
+        UpperConcat ut = (a1,a2) -> {
+           String result = a1.toUpperCase()+ a2.toUpperCase();
+            return result;
+        };
 
     }
 
