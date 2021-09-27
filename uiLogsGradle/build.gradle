@@ -1,0 +1,39 @@
+plugins {
+    id 'java'
+    id 'org.jetbrains.kotlin.jvm' version '1.5.21'
+    id 'org.jetbrains.kotlin.plugin.serialization' version '1.5.21'
+}
+
+group = 'org.example'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+sourceSets {
+    main {
+        java {
+            srcDirs = ['src']
+        }
+    }
+}
+dependencies {
+    compile 'junit:junit:4.12'
+    //LOGBACK DEPENDENCIES
+    compile 'ch.qos.logback:logback-classic:1.2.3'
+    compile 'ch.qos.logback.contrib:logback-json-classic:0.1.5'
+    compile 'ch.qos.logback.contrib:logback-jackson:0.1.5'
+    compile 'com.fasterxml.jackson.core:jackson-databind:2.9.5'
+    compile 'org.codehaus.janino:janino:3.0.8'
+    testCompile 'ch.qos.logback:logback-classic:1.2.3'
+    testCompile 'ch.qos.logback.contrib:logback-json-classic:0.1.5'
+    testCompile 'ch.qos.logback.contrib:logback-jackson:0.1.5'
+    testCompile 'com.fasterxml.jackson.core:jackson-databind:2.9.5'
+    testCompile 'org.codehaus.janino:janino:3.0.8'
+    //KOTLIN SERIALISATION
+    implementation 'org.jetbrains.kotlinx:kotlinx-serialization-json:1.2.2'
+    // https://mvnrepository.com/artifact/org.powermock/powermock-core
+    testImplementation("org.powermock:powermock-core:2.0.9")
+    //implementation("org.mockito:mockito-core:3.12.4")
+    testImplementation("org.mockito:mockito-inline:3.12.4")
+}
