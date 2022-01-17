@@ -33,12 +33,25 @@ public class DataService {
     }
 
     @Transactional
-    public void updateMessageId(Integer msg_id) {
-        DataModel checkModel = dataRepository.findById(msg_id).orElseThrow( ()->
-                new IllegalArgumentException(
-                        "Message id " + msg_id + " Does Not Exist"
-                ));
+    public void updateMessageId(DataModel data, Integer msg_id) {
 
-        checkModel.setMsg_id(msg_id);
+        DataModel findData = dataRepository.findById(msg_id).get();
+
+        if(findData.getMsg_id() != null){
+
+            findData.setCompany_name(
+                    data.getCompany_name());
+
+            findData.setDirectors_count(
+                    data.getDirectors_count());
+
+            findData.setScore(
+                    (int) data.getScore());
+
+        }else{
+            throw new IllegalArgumentException("The msg_id " + msg_id + " does not exist");
+        }
+
+        dataRepository.save(findData);
     }
 }

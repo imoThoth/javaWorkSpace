@@ -16,19 +16,19 @@ public class DataModelConfig {
     CommandLineRunner commandLineRunner(DataRepository repository){
 
         return args -> {
-//            DataModel starterData = new DataModel(
-//                    1, "Experian",
-//                    LocalDateTime.now(), LocalDateTime.now(),1);
-//
-//            DataModel demoData = new DataModel(
-//                    2, "Experian",
-//                    LocalDateTime.of(
-//                            1990, 05, 03, 13, 20, 10),
-//                    LocalDateTime.now(),2);
-//
-//            repository.saveAll(
-//                    List.of(starterData, demoData)
-//            );
+            DataModel starterData = new DataModel(
+                    1, "Experian",
+                    LocalDateTime.now(), LocalDateTime.now(),1);
+
+            DataModel demoData = new DataModel(
+                    2, "Athena",
+                    LocalDateTime.of(
+                            1990, 05, 03, 13, 20, 10),
+                    LocalDateTime.now(),2);
+
+            repository.saveAll(
+                    List.of(starterData, demoData)
+            );
         };
     }
 }

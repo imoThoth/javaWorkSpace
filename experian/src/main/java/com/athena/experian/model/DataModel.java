@@ -21,7 +21,7 @@ public class DataModel {
 
     private String company_name;
     private LocalDateTime registrationDate;
-    private Integer score;
+    private float score;
     private Integer directors_count;
     private LocalDateTime lastUpdated;
 
@@ -34,7 +34,7 @@ public class DataModel {
         this.msg_id = msg_id;
         this.company_name = company_name;
         this.registrationDate = registrationDate;
-        this.score = 0;
+        this.score = 0f;
         this.directors_count = directors_count;
         this.lastUpdated = lastUpdated;
     }
@@ -76,7 +76,7 @@ public class DataModel {
         this.registrationDate = registrationDate;
     }
 
-    public Integer getScore() {
+    public float getScore() {
         return score;
     }
 

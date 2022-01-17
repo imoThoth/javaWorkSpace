@@ -30,8 +30,9 @@ public class DataController {
 
     @PutMapping(path = "update/{msg_id}")
     public void updateMessageId(
+            @RequestBody DataModel data,
             @PathVariable("msg_id") Integer msg_id){
-        dataService.updateMessageId(msg_id);
+        dataService.updateMessageId(data, msg_id);
     }
 
 }
