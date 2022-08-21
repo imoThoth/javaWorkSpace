@@ -1,0 +1,9 @@
+Lambdas are broken into three parts   (x,y) -> {}
+
+1. Argument
+2. Arrow Function
+3. Lambda body
+
+Functional Interfaces -:
+Lambda expression can only be used with interfaces,
+that contain one method which needs implementation

@@ -1,0 +1,3 @@
+Polymorphism combination of 2 words(Poly = many, Morphism = forms)
+Water is an example of polymorphism, has it has the form of a gas, liquid and solid.
+Within OOP polymorphism allows us to use a single interface to implement multiple object

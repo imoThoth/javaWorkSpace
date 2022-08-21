@@ -1,0 +1,24 @@
+What is Recursion? A method which calls itself
+
+Recursion Pros -:
+    Bridges gap between elegance and complexity
+    Reduce needs for complex loops and auxiliary data structures
+    Reduce time complexity using memoization/caching
+    Works well with recursive structures, trees, graphs. json objects
+
+Recursion Cons -:
+    Slowness due to CPU overload. Calling and recalling code
+    Leads to memory errors/ stack overflow exceptions
+    Can be unnecessarily complex if poorly constructed
+
+Call Stack -: Abstraction which Operating.System uses to store method invocation/call in a programme
+              Store memory address
+              Store local information passed to object, method, variables
+              Process isn't finished until the call stack is completed
+
+Stop Value -: Uses a base condition, to stop further recursion... this prevents infinite recursions
+
+
+Questions to ask when using Recursion -:
+    What is my stop value? When can i no longer continue the algorithm?
+    What is the smallest amount of work i can do in each iteration?

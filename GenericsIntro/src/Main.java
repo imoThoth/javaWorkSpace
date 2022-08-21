@@ -17,8 +17,9 @@ public class Main {
     private static void printDoubled(ArrayList<Integer> n){
         for(int i: n){ //Generic specifies type of object
             //for(Object i : n) non generic, all arrays are objects
+
+            System.out.println(i * 2); //generic does not need casting
             //cast object into an integer
-            System.out.println(i * 2); //generic does not need casting 
             //println((Integer)i * 2) non generic, cast object to type Integer
         }
     }

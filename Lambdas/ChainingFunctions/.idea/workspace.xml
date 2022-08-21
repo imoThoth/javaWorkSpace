@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc0f7549-f0c1-44fe-a6e2-b99d966959d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Abstraction/Abstraction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algorithms/Algorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Composition/Composition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Conditions/Conditions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataStructureAlgorithms/DataStructureAlgorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DateTime/DateTime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Encapsulation/Encapsulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Encapsulation/PlayerEnhanced/PlayerEnhanced.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GenericClasses/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GenericClasses/src/BaseBallPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/Inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Interface/Interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FunctionalInterface/FunctionalInterface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Predicates/Predicates.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Predicates/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScopeAndFunctionalProgramming/ScopeAndFunctionalProgramming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScopeAndFunctionalProgramming/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Suppliers/Suppliers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NestedClasses/NestedClasses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Polymorphism/Polymorphism.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/Recursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/src/MergeLinkedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaWorkspace.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../networking/networking.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Collections/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Collections/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections/src/Theatre.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Collections/src/Theatre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GenericClasses/src/BaseBall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GenericsIntro/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../GenericsIntro/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LambdaExpressions/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LambdaExpressions/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LambdaExpressions/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LambdaExpressions/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LambdaExpressions/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LambdaExpressions/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LambdaExpressions/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LambdaExpressions/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LambdaExpressions/LambdaExpressions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LambdaExpressions/out/production/LambdaExpressions/LambdaExpressions/AnotherClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LambdaExpressions/out/production/LambdaExpressions/LambdaExpressions/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LambdaExpressions/out/production/LambdaExpressions/LambdaExpressions/LambdaI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LambdaExpressions/out/production/LambdaExpressions/LambdaExpressions/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LambdaExpressions/out/production/LambdaExpressions/LambdaExpressions/UpperConcatt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LambdaExpressions/out/production/LambdaExpressions/LambdaExpressions/UpperrConcatt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LambdaExpressions/out/production/LambdaExpressions/LambdaExpressions/doesSomething.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LambdaExpressions/out/production/LambdaExpressions/LambdaIntro/AnotherClass$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LambdaExpressions/out/production/LambdaExpressions/LambdaIntro/AnotherClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LambdaExpressions/out/production/LambdaExpressions/LambdaIntro/CodeToRun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LambdaExpressions/out/production/LambdaExpressions/LambdaIntro/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LambdaExpressions/out/production/LambdaExpressions/LambdaIntro/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LambdaExpressions/out/production/LambdaExpressions/LambdaIntro/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LambdaExpressions/out/production/LambdaExpressions/LambdaIntro/MainCont$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LambdaExpressions/out/production/LambdaExpressions/LambdaIntro/MainCont.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LambdaExpressions/out/production/LambdaExpressions/LambdaIntro/UpperConcat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LambdaExpressions/src/LambdaExpressions/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LambdaExpressions/src/LambdaExpressions/LambdaI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LambdaExpressions/src/LambdaIntro/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LambdaExpressions/src/LambdaIntro/MainCont.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP2/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP2/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RegularExpressions/out/production/RegularExpressions/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../RegularExpressions/out/production/RegularExpressions/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RegularExpressions/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../RegularExpressions/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adventureWorld" beforeDir="false" afterPath="$PROJECT_DIR$/../../adventureWorld" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaLogger/src/main/java/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../javaLogger/src/main/java/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaLogger/src/main/java/mainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../javaLogger/src/main/java/mainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaLogger/src/test/java/ControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../javaLogger/src/test/java/ControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaLogger/src/test/java/MoreLogsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../javaLogger/src/test/java/MoreLogsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kotlinLogger/src/main/kotlin/Controller.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../kotlinLogger/src/main/kotlin/Controller.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kotlinLogger/src/main/kotlin/MoreLogs.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../kotlinLogger/src/main/kotlin/MoreLogs.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kotlinLogger/src/test/kotlin/ControllerTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../kotlinLogger/src/test/kotlin/ControllerTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kotlinLogger/src/test/kotlin/MoreLogsTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../kotlinLogger/src/test/kotlin/MoreLogsTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/.gradle/6.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../uiLogsGradle/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../uiLogsGradle/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/.gradle/6.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../uiLogsGradle/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../uiLogsGradle/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../uiLogsGradle/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/classes/kotlin/main/ApplicationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/classes/kotlin/main/META-INF/uiLogsGradle.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/classes/kotlin/main/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/src/main/java/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../uiLogsGradle/src/main/java/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/src/main/java/mainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../uiLogsGradle/src/main/java/mainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/src/main/kotlin/Application.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../uiLogsGradle/src/main/kotlin/Application.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uiLogsGradle/src/test/kotlin/uiTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../uiLogsGradle/src/test/kotlin/uiTest.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2DYBniWBrDpatEyyIPuOuK0splZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../UtilFunctions" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ChainingUtilFunctions" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc0f7549-f0c1-44fe-a6e2-b99d966959d8" name="Default Changelist" comment="" />
+      <created>1660866310069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660866310069</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1180" y="295" key="FileChooserDialogImpl" timestamp="1660866549415">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1180" y="295" key="FileChooserDialogImpl/-3840.11.1920.1080/-1920.0.1920.1080/0.0.1920.1080@-1920.0.1920.1080" timestamp="1660866549415" />
+  </component>
+</project>

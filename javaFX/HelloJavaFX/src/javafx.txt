@@ -1,0 +1,6 @@
+JavaFx designed to implement Model-View-Controller pattern.
+MVC pattern requires code for u.i logic and backend logic to be separated
+
+Model - Application data model
+View -  .FXML
+Controller - Controller [handles events, determines what happens when user interacts with U.I]

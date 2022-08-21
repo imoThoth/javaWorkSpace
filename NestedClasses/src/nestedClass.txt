@@ -1,0 +1,7 @@
+Nested Classes - a class defined within another class
+Two categories of nested classes
+-Non static nested (inner classes)
+ Grouping classes with same functionality together
+ Helps with encapsulation when grouping classes
+ Improves code readability
+-static nested class (nested static classes)

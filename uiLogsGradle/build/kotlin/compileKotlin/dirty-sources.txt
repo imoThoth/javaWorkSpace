@@ -1,0 +1,3 @@
+D:\javaWorkspace\uiLogsGradle\src\test\kotlin\uiTest.kt
+D:\javaWorkspace\uiLogsGradle\src\test\kotlin\interchange.kt
+D:\javaWorkspace\uiLogsGradle\src\main\kotlin\Application.kt

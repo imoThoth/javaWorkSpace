@@ -1,0 +1,5 @@
+Interface contains methods which a class implementing the interface must declare
+Interface are all abstract.
+Interface provides standard behaviours which all other class can use.
+Interface contract which all other class must follow.
+All methods must be implemented for contract to be valid.

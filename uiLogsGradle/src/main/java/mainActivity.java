@@ -1,8 +1,11 @@
 package main.java;
 
-public class main {
+public class mainActivity {
 
-    public main(String args){
+    public static void main(String[] args){
+
+        Controller testController = new Controller();
+        testController.log();
 
     }
 }

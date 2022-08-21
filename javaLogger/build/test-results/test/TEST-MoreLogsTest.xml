@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MoreLogsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-29T12:01:32" hostname="DROPBYDROP" time="0.054">
+  <properties/>
+  <testcase name="testIt2" classname="MoreLogsTest" time="0.054"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
