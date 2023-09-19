@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class Duplicate {
 
     public static String[] dup(String[] arr){
@@ -36,8 +38,12 @@ public class Duplicate {
 
     public static void main(String[] args) {
         // write your code here
-        System.out.println(dup(new String[]{"allottee", "assessee"}));
+        System.out.println(Arrays.toString(dup(new String[]{"allottee", "assessee"})));
 
+        int num = 1234;
+        int temp = num % 10;
+        num /= 10;
+        System.out.println(temp);
 
     }
 }

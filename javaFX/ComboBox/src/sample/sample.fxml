@@ -1,0 +1,27 @@
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.GridPane?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.collections.*?>
+<?import java.lang.String?>
+
+<GridPane fx:controller="sample.Controller"
+          xmlns:fx="http://javafx.com/fxml" alignment="center" hgap="10" vgap="10">
+
+    <ComboBox GridPane.rowIndex="0" GridPane.columnIndex="0" GridPane.columnSpan="3">
+        <items>
+            <FXCollections fx:factory="observableArrayList" >
+            <String fx:value="Option 1" />
+            <String fx:value="Option 2" />
+            <String fx:value="Option 3" />
+            <String fx:value="Option4" />
+            <String fx:value="Longer Option For Calibration" />
+            </FXCollections>
+        </items>
+        <value>
+            <String fx:value="Click TO See Options" />
+        </value>
+    </ComboBox>
+</GridPane>

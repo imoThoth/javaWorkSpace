@@ -1,0 +1,14 @@
+Java has 8 different layouts.
+One of this layout is known as the GridPane
+
+The width and height of column are auto set to the size of biggest item
+
+Columnn Constraints creates a maximum width/height for the columns
+-* creating constraint for 3 buttons means creating 3 constraint tags
+-* constraints are applied in order, eg first constraint is applied to the first button tag etc
+
+hGap and vGap attribute define how many pixels between each rendered item, to create space
+gridLineVisible attribute allows dev to view app with grid lines
+
+GridPane.columnSpan - allows item to span over one column
+GridPane.halignment/valignment - aligns item to grid position, width and height respective

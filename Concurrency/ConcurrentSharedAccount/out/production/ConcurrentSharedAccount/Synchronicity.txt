@@ -1,0 +1,12 @@
+Atomitcity - set of actions which execute as a single operation, in an indvisible manner.
+             operations which execute together.
+             operations Execute together or not at all.
+             operations cannot be half completed.
+
+Note -: To use the synchronized keyword effectively, find the object which both party shares
+        the shared object is where thread safety can most be ensured?
+
+        Deadlock -: Occurs when a thread 1 goes to sleep while holding a key for method foo.
+                    Thread 2 tries to access a obj bar which calls method foo, holding another key.
+                    thread 1 wakes up, and tries to access obj bar, but cant because thread 2 has the key it needs and vice versa,
+                    this 2 threads will never be able to perform their tasks, and will crash the programme.

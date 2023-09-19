@@ -1,0 +1,6 @@
+// 5 steps to create MIDI sound
+    //Get sequence and open it [Sequence sequencer = MidiSystem.getSequencer(); sequencer.open();]
+    //Make a new sequence [Sequence sequence = new Sequence(timing, 4);]
+    //Get new track from sequence [Track t = sequence.createTrack();]
+    //Give track with midievents and give seqence to sequencer [t.add(MidiEvents); sequencer.setSequence(sequence);]
+    //play the sequence [sequencer.start();]

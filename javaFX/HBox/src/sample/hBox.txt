@@ -1,0 +1,5 @@
+Similar to VBox layout
+
+Spacing creates space between items
+
+Change HBox to VBox
