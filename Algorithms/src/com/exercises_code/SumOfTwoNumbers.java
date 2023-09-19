@@ -1,3 +1,5 @@
+package miscWebsite;
+
 public class SumOfTwoNumbers {
 
     public static Integer sum(Integer i, Integer j){
