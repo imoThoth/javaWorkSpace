@@ -1,3 +1,5 @@
+package miscWebsite;
+
 public class DigitalRoot {
 
     public static int digitalRoot(int n){

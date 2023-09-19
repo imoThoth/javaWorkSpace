@@ -1,4 +1,4 @@
-package miscWebsite;
+package com.exercises_code;
 
 public class SumOfTwoNumbers {
 

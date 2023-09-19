@@ -1,3 +1,5 @@
+package miscWebsite;
+
 import java.util.Arrays;
 
 public class Duplicate {
@@ -10,7 +12,7 @@ public class Duplicate {
 //        for(int j = 0; j < arr.length; j++ ) { //check length of the array
 //            for(int k = 0; k < arr[j].length() -1; k++){ //checks length of characters in string
 //                if (arr[j].charAt(k) == arr[j].charAt(k )+ 1) {
-//                   // System.out.println("Duplicate value : " + arr[j].charAt(k));
+//                   // System.out.println("miscWebsite.Duplicate value : " + arr[j].charAt(k));
 //                }else if(!(arr[j].charAt(k) == arr[j].charAt(k + 1))){
 //                    solution += arr[j].charAt(k);
 //                    //System.out.println(Arrays.toString(solution));

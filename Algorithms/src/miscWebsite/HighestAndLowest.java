@@ -1,3 +1,5 @@
+package miscWebsite;
+
 import java.util.Arrays;
 
 public class HighestAndLowest {
