@@ -1,0 +1,2 @@
+Arrays take up contiguous block in memory
+=Memory block/address can be calculated using expression: x + i * y

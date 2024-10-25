@@ -2,82 +2,56 @@ package leetCode;
 
 //https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150
 
+import java.util.Arrays;
+
 public class MergeSortedArray {
 
-    //num 1 and num 2, arrays stored in non-decreasing order
-    // m and n, represents elements in nums1 and nums2
+    public static void merge3(int[] nums1, int m, int[] nums2, int n) {
 
-    // MERGE num 1 and num2 into single array of non-decreasing order
-    //final solution to be stored inside num1
-    public static void merge(int[] num1, int m, int[] num2, int n){
+        //Array nums1 and nums2, stored in incrementing order
+        //merge all numbers into nums1
+        // int m and n = number of items to be merged in both array
 
-        //take an element inside num2
-        //check if it is small or bigger than any element in num1
-        //put it to the left of any element it is equal to
-        //put it to the right of any element it is smaller than
+        //length of nums1, gives me all the numbers needed in the array
 
-        int[] storedArray = new int[m + n];
 
-        for(int secondArray = 0; secondArray <= num2.length - 1; secondArray++){
+        int leftIndex = m - 1; //current value in left index/nums1 array
+        if(leftIndex < 0){
+            leftIndex = 0;
+        }
+        int rightIndex = n - 1; //current value in right index/nums2 array
+        int currentIndex = m + n - 1;
 
-            int elementBeingAdded = num2[secondArray];
+        while(leftIndex >= 0 && rightIndex >= 0){
 
-            for(int firstArray = 0; firstArray <= num1.length - 1; firstArray++){
-
-                int currentElementInFirstArr = num1[firstArray];
-
-                if(currentElementInFirstArr != 0){
-                    //ignore
-                    if(elementBeingAdded <= currentElementInFirstArr){
-                        storedArray[firstArray] = elementBeingAdded;
-                        storedArray[firstArray + 1] = currentElementInFirstArr;
-                        continue;
-                    }
-                }
-
-                System.out.println(storedArray[firstArray]);
-
+            if(nums2[rightIndex] > nums1[leftIndex]){
+                nums1[currentIndex] = nums2[rightIndex];
+                rightIndex--;
+            }else{
+                nums1[currentIndex] = nums1[leftIndex];
+                leftIndex--;
             }
+
+            currentIndex--;
         }
 
     }
 
-    public static void merge2(int[] nums1, int m, int[] nums2, int n) {
-        // Indices for the last elements in nums1 and nums2, and the last position in nums1
-        int index1 = m - 1; // Last element index in the actual elements of nums1
-        int index2 = n - 1; // Last element index in nums2
-        int mergeIndex = m + n - 1; // Last position in nums1 where the merged element should be placed
-
-        // Merge in reverse order to avoid overwriting elements in nums1 that haven't been checked yet
-        while (index1 >= 0 && index2 >= 0) {
-            // Compare elements from nums1 and nums2 from the end, placing the larger one in the correct position
-            if (nums1[index1] > nums2[index2]) {
-                nums1[mergeIndex] = nums1[index1];
-                index1--;
-            } else {
-                nums1[mergeIndex] = nums2[index2];
-                index2--;
-            }
-            mergeIndex--;
+    public static void mergeEasy(int[] nums1, int m, int[] nums2, int n){
+        int count = 0;
+        for(int i = m; i < nums1.length; i++){
+            nums1[i] = nums2[count];
+            count++;
         }
-
-        // If there are remaining elements in nums2, copy them
-        // This loop is needed because if nums2 contains smaller elements, they need to be moved to the front
-        while (index2 >= 0) {
-            nums1[mergeIndex] = nums2[index2];
-            index2--;
-            mergeIndex--;
-        }
-
-        // No need to handle remaining elements in nums1 as they are already in the correct place
+        Arrays.sort(nums1);
     }
 
 
     public static void main(String[] args) {
 
-        int[] num1 = {1,2,3,0,0,0};
-        int[] num2 = {2,5,6};
+        int[] num1 = {0};
+        int[] num2 = {1};
 
-        merge(num1, 3, num2, 3);
+        merge3(num1, 0, num2, 1);
     }
 }
